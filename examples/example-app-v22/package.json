@@ -35,5 +35,9 @@
     "jsdom": "^29.1.1",
     "ts-jest": "^29.4.11",
     "typescript": "~6.0.3"
+  },
+  "resolutions": {
+    "brace-expansion": "^1.1.13",
+    "ip-address": "^10.1.1"
   }
 }

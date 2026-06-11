@@ -35,5 +35,17 @@
     "jsdom": "^27.1.0",
     "ts-jest": "^29.4.11",
     "typescript": "~5.9.2"
+  },
+  "resolutions": {
+    "ajv": "^8.20.0",
+    "@isaacs/brace-expansion": "^5.0.1",
+    "brace-expansion": "^1.1.13",
+    "ip-address": "^10.1.1",
+    "express-rate-limit": "^8.2.2",
+    "minimatch": "^10.2.3",
+    "path-to-regexp": "^8.4.0",
+    "picomatch": "^2.3.2",
+    "rollup": "^4.59.0",
+    "ws": "^8.21.0"
   }
 }
