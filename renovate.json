@@ -43,6 +43,10 @@
       "rangeStrategy": "in-range-only"
     },
     {
+      "matchPackagePatterns": ["^?@docusaurus"],
+      "rangeStrategy": "bump"
+    },
+    {
       "matchDepTypes": ["peerDependencies"],
       "enabled": false
     },
