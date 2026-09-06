@@ -53,6 +53,11 @@
       "enabled": false
     },
     {
+      "matchDepNames": ["angular-in-memory-web-api", "zone.js"],
+      "matchUpdateTypes": ["major", "minor"],
+      "enabled": false
+    },
+    {
       "matchPackageNames": [
         "esbuild",
         "jsdom",
@@ -64,11 +69,6 @@
       "matchPaths": ["examples/**/package.json"],
       "matchPackagePatterns": ["^angular", "^@angular", "ng-packagr"],
       "matchUpdateTypes": ["major"],
-      "enabled": false
-    },
-    {
-      "matchPaths": ["examples/**/package.json"],
-      "matchDepNames": ["angular-in-memory-web-api", "zone.js"],
       "enabled": false
     },
     {
