@@ -3,7 +3,6 @@
     "group:babelMonorepo",
     "group:commitlintMonorepo",
     "group:docusaurusMonorepo",
-    "monorepo:jest",
     "packages:eslint",
     "group:angular-eslintMonorepo",
     "packages:react",
